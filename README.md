@@ -22,7 +22,7 @@
 ## How To Run This Project
    - Clone this project
    - Open this project in intellij
-   - Hit this command in terminal gradle clean test
+   - Hit this command in terminal "gradle clean test"
    - Find report in Target folder
    - Open report in browser
 
