@@ -1,5 +1,3 @@
-
-https://github.com/RedoySQA/Github-Search-Automation-With-Cucumber/assets/143482478/867960db-2f8c-44b4-a9b4-8f7310b4b2e1
 # Github-Search-Automation-With-Cucumber
   I have created a this project for automating Github Search feature and about page navigation feature.
 
