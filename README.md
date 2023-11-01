@@ -1,5 +1,5 @@
 # Github-Search-Automation-With-Cucumber
-  I have created a this project for automating Github Search feature and about page navigation feature.
+  I have created this project for automating Github Search feature and about page navigation feature.
 
 ## Project Scenarion
    Create a project with browser-based tests for the following acceptance criteria for github.com. You must use "Cucumber Framework".
